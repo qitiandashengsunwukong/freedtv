@@ -3168,5 +3168,29 @@
       "webOpen": false,
       "click": false    
     }  
+    {
+      "name": "西瓜视频",
+      "pic": "http://dwz.date/envb",
+      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
+      "type": "webPlug",
+      "subTitle": "",
+      "subMobileTitle": "西瓜视频",
+      "ads": "",
+      "webUrl": "https://www.ixigua.com/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "低端影视",
+      "pic": "http://dwz.date/envb",
+      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
+      "type": "webPlug",
+      "subTitle": "",
+      "subMobileTitle": "低端影视",
+      "ads": "",
+      "webUrl": "https://ddrk.me/",
+      "webOpen": true,
+      "click": true
+    }       
   ]
 }
